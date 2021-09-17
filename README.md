@@ -1,13 +1,13 @@
 ## 😄 Sobre mim
 
 
-> 🤔   Explorando novas tecnologias e desenvolvendo alguns projetos.
+> + 🤔   Explorando novas tecnologias e desenvolvendo alguns projetos.
 >
-> 🎓   Estudando Analise e desenvolvimento de Sistemas na <a href="http://fatecpp.edu.br">Fatec - Presidente Prudente</a>.
+> + 🎓   Estudando Analise e desenvolvimento de Sistemas na <a href="http://fatecpp.edu.br">Fatec - Presidente Prudente</a>.
 >
-> 💼   Procurando estágio para aplicar minhas habilidades.
+> + 💼   Procurando estágio para aplicar minhas habilidades.
 >
-> 🌱   Aprendendo mais sobre JavaScript, ReactJS e Sass.
+> + 🌱   Aprendendo mais sobre JavaScript, ReactJS e Sass.
 
 
 ## 🚀  Minhas Skills
@@ -32,3 +32,10 @@ Ferramentas de Desenvolvimento
 <a href="https://www.linkedin.com/in/gustavo-ferreira-679719200/">Linkedin</a>
 
 <a href="https://mail.google.com/mail/u/0/#inbox">gf070901@gmail.com</a>
+
+
+## 💻 Em desenvolvimento
+
+<a href="https://gustaferreira.github.io/meu-site-pessoal/">Site pessoal</a>
+
+![site-pessoal](https://gustaferreira.github.io/meu-site-pessoal/)

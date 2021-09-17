@@ -36,6 +36,6 @@ Ferramentas de Desenvolvimento
 
 ## 💻 Em desenvolvimento
 
-<a href="https://gustaferreira.github.io/meu-site-pessoal/">Site pessoal</a>
+### Site pessoal
 
-![site-pessoal](https://gustaferreira.github.io/meu-site-pessoal/)
+<a href="https://gustaferreira.github.io/meu-site-pessoal/"><img src="Capturar.PNG"></a>

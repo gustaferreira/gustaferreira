@@ -36,12 +36,6 @@ Ferramentas de Desenvolvimento
 
 ## 👾 Git Stats
 
-
-<img align="center"
-      alt="Dev Gustavo Ferreira Github Stats"
-      style="margin-bottom: 10px;"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=gustaferreira&theme=ayu-mirage&show_icons=true&count_private=true" />
-  <img>
   
   <a href="https://github.com/gustaferreira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaferreira&theme=dark&hide_langs_below=1" />

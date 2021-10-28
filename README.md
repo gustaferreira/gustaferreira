@@ -34,6 +34,13 @@ Ferramentas de Desenvolvimento
 <a href="https://mail.google.com/mail/u/0/#inbox">gf070901@gmail.com</a>
 
 
+<img align="center"
+      alt="Dev Gustavo Ferreira Github Stats"
+      style="margin-bottom: 10px;"
+      height="165" src="https://github-readme-stats.vercel.app/api?username=gustaferreira&theme=ayu-mirage&show_icons=true&count_private=true" />
+  <img
+
+
 ## 💻 Em desenvolvimento
 
 ### Site pessoal

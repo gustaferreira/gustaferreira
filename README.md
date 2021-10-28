@@ -34,6 +34,9 @@ Ferramentas de Desenvolvimento
 <a href="https://mail.google.com/mail/u/0/#inbox">gf070901@gmail.com</a>
 
 
+## 👾 Git Stats
+
+
 <img align="center"
       alt="Dev Gustavo Ferreira Github Stats"
       style="margin-bottom: 10px;"

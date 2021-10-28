@@ -38,7 +38,7 @@ Ferramentas de Desenvolvimento
       alt="Dev Gustavo Ferreira Github Stats"
       style="margin-bottom: 10px;"
       height="165" src="https://github-readme-stats.vercel.app/api?username=gustaferreira&theme=ayu-mirage&show_icons=true&count_private=true" />
-  <img
+  <img>
 
 
 ## 💻 Em desenvolvimento
